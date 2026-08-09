@@ -1,6 +1,11 @@
 # Laboratorio No. 3
 
-Video de ejecución (no listado): *pendiente de subir a YouTube*
+Video de ejecución; https://youtu.be/vFzMt7B0EjI?si=_x41Xg262Q_ZTXFl
+
+## Integrantes
+
+- Camila Sandoval #24358
+- Alejandra Sierra #24405
 
 ## Estructura del repositorio
 
